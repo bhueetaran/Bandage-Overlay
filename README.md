@@ -1,4 +1,4 @@
-# Bandage Overlay CV
+# Bandage Overlay using CV
 
 ## Overview
 This project implements an automated computer vision system that detects wound-like regions on skin images and overlays a realistically transformed bandage. The system identifies the wound area, estimates its orientation and size, and applies a bandage with appropriate scaling, rotation, and brightness adjustment to achieve a natural visual appearance.
